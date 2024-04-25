@@ -4,4 +4,3 @@ This repository has all the code for my research work under Prof. Conklin. The a
 
 - A hypothesis that I'm particularly interested in is that the equity Sharpe would have to be reasonably equal to the term premium of bonds.
 
-- 
